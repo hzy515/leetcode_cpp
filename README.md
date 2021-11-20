@@ -1,5 +1,5 @@
 # leetcode_cpp
 
-A practice items
+This a practice items
 
 I will use this item to record my algorithm learning process!
